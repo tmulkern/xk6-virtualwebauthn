@@ -1,0 +1,28 @@
+{
+  "name": "xk6-virtualwebauthn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.d.ts",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmulkern/xk6-virtualwebauthn.git"
+  },
+  "author": "tmulkern",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmulkern/xk6-virtualwebauthn/issues"
+  },
+  "homepage": "https://github.com/tmulkern/xk6-virtualwebauthn#readme",
+  "devDependencies": {
+    "typedoc": "^0.20.36",
+    "typedoc-plugin-markdown": "^3.8.0"
+  }
+  
+}
